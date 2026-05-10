@@ -1,5 +1,6 @@
 # NanoAI - Chrome Extension 🚀🤖
 
+![NanoAI Interface](image.png)
 NanoAI is a powerful, locally-run Chrome Extension that leverages Google Chrome's built-in (hidden) AI model, **Gemini Nano**, via the experimental `window.ai` (Prompt API). It acts as both a conversational assistant and an autonomous web agent right inside your browser!
 
 Since the AI runs 100% locally on your device, it is extremely fast and completely private—no data ever leaves your computer. 🔒
